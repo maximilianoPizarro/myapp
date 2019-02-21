@@ -1,0 +1,11 @@
+{
+  "myappApp": {
+    "TipoDni": {
+      "null": "",
+      "DNI": "DNI",
+      "PAS": "PAS",
+      "DE": "DE",
+      "CRP": "CRP"
+    }
+  }
+}

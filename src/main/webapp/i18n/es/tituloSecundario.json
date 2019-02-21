@@ -1,0 +1,36 @@
+{
+  "myappApp": {
+    "tituloSecundario": {
+      "home": {
+        "title": "Titulo Secundarios",
+        "createLabel": "Crear nuevo Titulo Secundario",
+        "createOrEditLabel": "Crear o editar Titulo Secundario",
+        "search": "Search for Titulo Secundario"
+      },
+      "created": "Un nuevo Titulo Secundario ha sido creado con el identificador {{ param }}",
+      "updated": "Un Titulo Secundario ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Titulo Secundario ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Titulo Secundario {{ id }}?"
+      },
+      "detail": {
+        "title": "Titulo Secundario"
+      },
+      "nroTitulo": "Nro Titulo",
+      "tipoEjemplar": "Tipo Ejemplar",
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "dni": "Dni",
+      "fechaNacimiento": "Fecha Nacimiento",
+      "tituloOtorgado": "Titulo Otorgado",
+      "promedio": "Promedio",
+      "mesAnnioEgreso": "Mes Annio Egreso",
+      "validezNacional": "Validez Nacional",
+      "dictamen": "Dictamen",
+      "revisado": "Revisado",
+      "ingreso": "Ingreso",
+      "egreso": "Egreso",
+      "nroCue": "Nro Cue"
+    }
+  }
+}

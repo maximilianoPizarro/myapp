@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+    <changeSet author="desarrollo (generated)" id="1549637022538-1">
+        <dropColumn columnName="birth_date" tableName="author"/>
+    </changeSet>
+    <changeSet author="desarrollo (generated)" id="1549637022538-2">
+        <dropColumn columnName="description" tableName="book"/>
+    </changeSet>
+    <changeSet author="desarrollo (generated)" id="1549637022538-3">
+        <dropColumn columnName="edad" tableName="author"/>
+    </changeSet>
+    <changeSet author="desarrollo (generated)" id="1549637022538-4">
+        <dropColumn columnName="name" tableName="author"/>
+    </changeSet>
+    <changeSet author="desarrollo (generated)" id="1549637022538-5">
+        <dropColumn columnName="price" tableName="book"/>
+    </changeSet>
+    <changeSet author="desarrollo (generated)" id="1549637022538-6">
+        <dropColumn columnName="publication_date" tableName="book"/>
+    </changeSet>
+    <changeSet author="desarrollo (generated)" id="1549637022538-7">
+        <dropColumn columnName="title" tableName="book"/>
+    </changeSet>
+</databaseChangeLog>

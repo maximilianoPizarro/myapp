@@ -1,0 +1,40 @@
+
+entity TituloSecundario{
+	nroTitulo Long required
+	tipoEjemplar TipoEjemplar required
+	nombre String required
+	apellido String required
+	dni TipoDni required
+	fechaNacimiento LocalDate required
+	tituloOtorgado String required	
+	promedio Double required
+	mesAnnioEgreso String required	
+	validezNacional Long required
+	dictamen String
+	revisado String required
+	ingreso LocalDate required
+	egreso LocalDate required
+}
+
+enum TipoEjemplar{
+	ORIGINAL,DUPLICADO,TRIPLICADO,CUADRIPLICADO,QUINTUPLICADO,SEXTUPLICADO
+}
+enum TipoDni{
+	DNI,PAS,DE,CRP
+}
+
+entity Establecimiento{
+	nroCue Long
+	gestion String
+	modalidad String
+	nivel String
+}
+
+relationship ManyToOne{
+	TituloSecundario{nroCue} to Establecimiento
+}
+
+
+
+// Set an angular suffix
+angularSuffix * with mySuffix

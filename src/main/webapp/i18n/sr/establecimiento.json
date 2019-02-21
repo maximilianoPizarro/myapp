@@ -1,0 +1,25 @@
+{
+  "myappApp": {
+    "establecimiento": {
+      "home": {
+        "title": "Establecimientos",
+        "createLabel": "Kreiraj novi Establecimiento",
+        "createOrEditLabel": "Kreirajte ili izmenite Establecimiento",
+        "search": "Potražite Establecimiento"
+      },
+      "created": "Kreiran je novi Establecimiento pod nazivom {{ param }}",
+      "updated": "Establecimiento pod nazivom {{ param }} je ažuriran",
+      "deleted": "Establecimiento pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Establecimiento pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Establecimiento"
+      },
+      "nroCue": "Nro Cue",
+      "gestion": "Gestion",
+      "modalidad": "Modalidad",
+      "nivel": "Nivel"
+    }
+  }
+}

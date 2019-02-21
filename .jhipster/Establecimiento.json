@@ -1,0 +1,32 @@
+{
+    "name": "Establecimiento",
+    "fields": [
+        {
+            "fieldName": "nroCue",
+            "fieldType": "Long"
+        },
+        {
+            "fieldName": "gestion",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "modalidad",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "nivel",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20190211155001",
+    "entityTableName": "establecimiento",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*",
+    "angularJSSuffix": "mySuffix"
+}

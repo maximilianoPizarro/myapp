@@ -1,0 +1,27 @@
+{
+  "myappApp": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "createLabel": "Kreiraj novi Book",
+        "createOrEditLabel": "Kreirajte ili izmenite Book",
+        "search": "Potražite Book"
+      },
+      "created": "Kreiran je novi Book pod nazivom {{ param }}",
+      "updated": "Book pod nazivom {{ param }} je ažuriran",
+      "deleted": "Book pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Book pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "title": "Title",
+      "description": "Description",
+      "publicationDate": "Publication Date",
+      "price": "Price",
+      "author": "Author",
+      "editorial": "Editorial"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "myappApp": {
+    "editorial": {
+      "home": {
+        "title": "Editorials",
+        "createLabel": "Kreiraj novi Editorial",
+        "createOrEditLabel": "Kreirajte ili izmenite Editorial",
+        "search": "Potražite Editorial"
+      },
+      "created": "Kreiran je novi Editorial pod nazivom {{ param }}",
+      "updated": "Editorial pod nazivom {{ param }} je ažuriran",
+      "deleted": "Editorial pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Editorial pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Editorial"
+      },
+      "nombre": "Nombre",
+      "fecha": "Fecha",
+      "book": "Book"
+    }
+  }
+}

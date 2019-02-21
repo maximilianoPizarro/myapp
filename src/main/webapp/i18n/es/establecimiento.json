@@ -1,0 +1,25 @@
+{
+  "myappApp": {
+    "establecimiento": {
+      "home": {
+        "title": "Establecimientos",
+        "createLabel": "Crear nuevo Establecimiento",
+        "createOrEditLabel": "Crear o editar Establecimiento",
+        "search": "Search for Establecimiento"
+      },
+      "created": "Un nuevo Establecimiento ha sido creado con el identificador {{ param }}",
+      "updated": "Un Establecimiento ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Establecimiento ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Establecimiento {{ id }}?"
+      },
+      "detail": {
+        "title": "Establecimiento"
+      },
+      "nroCue": "Nro Cue",
+      "gestion": "Gestion",
+      "modalidad": "Modalidad",
+      "nivel": "Nivel"
+    }
+  }
+}

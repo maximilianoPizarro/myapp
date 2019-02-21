@@ -1,0 +1,26 @@
+{
+  "myappApp": {
+    "documento": {
+      "home": {
+        "title": "Documentos",
+        "createLabel": "Kreiraj novi Documento",
+        "createOrEditLabel": "Kreirajte ili izmenite Documento",
+        "search": "Potražite Documento"
+      },
+      "created": "Kreiran je novi Documento pod nazivom {{ param }}",
+      "updated": "Documento pod nazivom {{ param }} je ažuriran",
+      "deleted": "Documento pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Documento pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Documento"
+      },
+      "baid": "Baid",
+      "cuil": "Cuil",
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "tipodocumento": "Tipodocumento"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "myappApp": {
+    "prueba": {
+      "home": {
+        "title": "Pruebas",
+        "createLabel": "Kreiraj novi Prueba",
+        "createOrEditLabel": "Kreirajte ili izmenite Prueba",
+        "search": "Potražite Prueba"
+      },
+      "created": "Kreiran je novi Prueba pod nazivom {{ param }}",
+      "updated": "Prueba pod nazivom {{ param }} je ažuriran",
+      "deleted": "Prueba pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Prueba pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Prueba"
+      },
+      "campo": "Campo",
+      "valor": "Valor"
+    }
+  }
+}

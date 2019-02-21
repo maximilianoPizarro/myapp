@@ -1,0 +1,13 @@
+{
+  "myappApp": {
+    "TipoEjemplar": {
+      "null": "",
+      "ORIGINAL": "ORIGINAL",
+      "DUPLICADO": "DUPLICADO",
+      "TRIPLICADO": "TRIPLICADO",
+      "CUADRIPLICADO": "CUADRIPLICADO",
+      "QUINTUPLICADO": "QUINTUPLICADO",
+      "SEXTUPLICADO": "SEXTUPLICADO"
+    }
+  }
+}

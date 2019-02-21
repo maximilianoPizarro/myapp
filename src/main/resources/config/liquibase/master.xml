@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+  
+
+
+
+ 
+ <!--     jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here 
+  <include file="config/liquibase/changelog/20190212170937_added_entity_Documento.xml" relativeToChangelogFile="false"/>
+ <include file="config/liquibase/changelog/20190211155000_added_entity_TituloSecundario.xml" relativeToChangelogFile="false"/>
+ <include file="config/liquibase/changelog/20190211155001_added_entity_Establecimiento.xml" relativeToChangelogFile="false"/>
+   <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20190208124353_added_entity_Author.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20190208125054_added_entity_Book.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20190208181044_added_entity_Editorial.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20190208125054_added_entity_constraints_Book.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20190208181044_added_entity_constraints_Editorial.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/add_field_author.xml" relativeToChangelogFile="false"/>
+<include file="config/liquibase/changelog/20190214153324_added_entity_Prueba.xml" relativeToChangelogFile="false"/>
+--> 
+  
+ <!--   <include file="config/liquibase/changelog/20190208181447_changelog.xml" relativeToChangelogFile="false"/>-->
+<!-- <include file="config/liquibase/changelog/20190208125054_added_entity_constraints_Book.xml" relativeToChangelogFile="false"/>
+<include file="config/liquibase/changelog/20190208200334_changelog.xml" relativeToChangelogFile="false"/>  -->
+<!-- <include file="config/liquibase/changelog/view_titulo_secundario_join_establecimiento.xml" relativeToChangelogFile="false"/>
+<include file="config/liquibase/changelog/added_entity_Persona.xml" relativeToChangelogFile="false"/>
+<include file="config/liquibase/changelog/20190211155000_added_entity_constraints_TituloSecundario.xml" relativeToChangelogFile="false"/>
+jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
+
+
+
+</databaseChangeLog>
